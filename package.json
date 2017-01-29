@@ -1,0 +1,23 @@
+{
+  "name": "ubear-alexa",
+  "version": "1.0.0",
+  "description": "Amazon Alexa for uBear, the best service for bears in need.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dukeeagle/ubear-alexa.git"
+  },
+  "author": "Team uBear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dukeeagle/ubear-alexa/issues"
+  },
+  "homepage": "https://github.com/dukeeagle/ubear-alexa#readme",
+  "dependencies": {
+    "ws": "^1.1.1"
+  },
+  "devDependencies": {}
+}
