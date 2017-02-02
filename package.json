@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/dukeeagle/ubear-alexa#readme",
   "dependencies": {
+    "node-red": "^0.16.2",
+    "node-red-contrib-http-request": "^0.1.6",
+    "request": "^2.79.0",
     "ws": "^1.1.1"
   },
   "devDependencies": {}
