@@ -1,5 +1,4 @@
-# uBear Alexa
-Amazon Alexa for uBear, the best service for bears in need.
+# uBear Node.js 
+Node.js layer for connecting Java websockets to Node.js websockets, which communicate with an Alexa skill for uBear. Confusing, right?
 
-
-Also contains websocket client with node.js, connecting to Alexa via IBM Bluemix. 
+Created at Minnehack 2017.
